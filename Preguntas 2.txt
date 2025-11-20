@@ -5,4 +5,3 @@
 5. Permite validar formularios usando un esquema y hace que las validaciones sean automáticas 
 6. Para la protección de rutas usualmente se hace algo conocido como authContext utilizando useContext lo que hace es proteger las rutas por el lado del cliente y el mildware para el lado del servidor
 7. el hoc es un componente que envuelve a otro componente y es similar a los hoks
-
